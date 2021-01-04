@@ -1,0 +1,16 @@
+/* #fishtank {} 
+.fish {} 
+.fish_name {} */
+
+.shop {
+    border: 1px solid crimson;
+    padding: 1em;
+    margin: .5em;
+    flex-basis: 16%;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
