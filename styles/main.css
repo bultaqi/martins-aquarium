@@ -1,8 +1,69 @@
+* {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 1em;
+    font-family: Helvetica, Arial, sans-serif
+}
+​
+img {
+    height: 20vh;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header_image {
+    width: 15%;
+}
+
+h2 {
+    text-align: center;
+}
+
+.fish-card_header {
+    display: flex;
+    width: 70%;
+}
+
+.fish-card_image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fish-card_info {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header_places-ive-been {
+    display: flex;
+    width: 100vw;
+}
+
+.places-ive-been {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.image_places-ive-been {
+    width: 30%;
+}
+
+
+
+
+
+
+
 /* #fishtank {} 
 .fish {} 
 .fish_name {} */
 
-.shop {
+/* .shop {
     border: 1px solid crimson;
     padding: 1em;
     margin: .5em;
@@ -13,4 +74,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-}
+} */
+
+
+
